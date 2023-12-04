@@ -1,5 +1,5 @@
 # Warfare
-### Unity3D第一人稱射擊遊戲Demo
+### Unity3D Multiplayer-FPS
 * 登入介面
   - 帳戶登入 - 使用帳戶和密碼登入(需先使用訪客登入後，進行綁定才能使用)
   - 訪客登入 - 創建名稱登入
