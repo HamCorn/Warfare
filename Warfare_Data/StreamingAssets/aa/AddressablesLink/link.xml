@@ -64,6 +64,7 @@
     <type fullname="RespawnUI" preserve="all" />
     <type fullname="ScreenUI" preserve="all" />
     <type fullname="SettingsUI" preserve="all" />
+    <type fullname="SlideLoopSound" preserve="all" />
     <type fullname="SmokeParticles" preserve="all" />
     <type fullname="SmokeThrow" preserve="all" />
     <type fullname="SmokeVolume" preserve="all" />
